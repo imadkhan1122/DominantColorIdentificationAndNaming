@@ -4,21 +4,31 @@ import os
 from math import sqrt
 import csv
 import pandas as pd
+import PIL
 from PIL import Image
 from PIL import ImageColor
 from PIL import ImageEnhance
+from tqdm import tqdm
+PIL.Image.MAX_IMAGE_PIXELS = 99933120000
 
-df = pd.read_excel('colors.xlsx', index_col=False)
-primary_names = []
-colors_ = []
-for i, j,  in df.iterrows():
-    RGB_ = ImageColor.getcolor(j[0], "RGB")
-    colors_.append(tuple((j[1], RGB_)))
-    primary_names.append(tuple((j[1], j[2])))
+#---------------------------Create Colors List--------------------------------#
+if not os.path.exists('colors.txt'):
+    df = pd.read_excel('colors.xlsx', index_col=False)
+    COLORS = []
+    for i, j,  in df.iterrows():
+        RGB_ = ImageColor.getcolor(j[0], "RGB")
+        COLORS.append(tuple((j[1], RGB_, j[2])))
+    df2 = pd.read_excel('SCRIPT-string-color-key.xlsx', index_col=False)
+    colorStr = []
+    for i, j,  in df2.iterrows():
+        match = [(e[0], e[1], e[2], j[1]) for e in COLORS if e[0] == j[0]]
+        colorStr.append(match[0])
+    
+    with open("colors.txt", "w") as file:
+        file.write(str(colorStr))
 
-COLORS = colors_
-PRIMARY_NAMES = primary_names
-
+with open("colors.txt", "r") as file:
+    colors = eval(file.readline())
 #-------------------------CLASS DOMINANT_COLORS--------------------------------#
 class DOMINAN_COLORS:
     # inti function
@@ -26,8 +36,7 @@ class DOMINAN_COLORS:
         
         # defining path
         self.pth = input('Enter path to the images folder: ')
-        self.color_ = COLORS
-        self.primaryColors = PRIMARY_NAMES
+        self.color_ = colors
                 
         # call main function
         self.main()
@@ -56,8 +65,7 @@ class DOMINAN_COLORS:
         S_max = tuple(color_count[1][1])
         return F_max, S_max
     #-----------------------TO CLOSEST COLOR IN COLORS LIST---------------------#
-    def closest_color(self, rgb, colors):
-     
+    def closest_color(self, rgb, colors):     
         # defining three colors code
         r, g, b = rgb
         # empty list for color codes saving
@@ -75,16 +83,14 @@ class DOMINAN_COLORS:
     #-----------------------EXTRACT IMAGE_DATA---------------------------------#
     def IMAGE_DATA(self, pth):
         # define empty list
-        PRIM_NAMES = self.primaryColors
+        color = self.color_
         LST = []  
         # define temprary empty list
         temp_lst = []
         # empty list to store unques colors names and its codes
-        lst = []
+        
         # itterate over colors list
-        for c in set(self.color_):
-            # append unique tuples of colors
-            lst.append(c)
+        for c in set(color):
             # append unique colors codes 
             temp_lst.append(c[1])
         # convert temp_list to tuple
@@ -102,32 +108,30 @@ class DOMINAN_COLORS:
         
         F_COL_NEAR = self.closest_color(F_COL, COLORS)
         # call closest_color function to get second closest color in color list
-        print(F_COL,'-', F_COL_NEAR)
+        
         S_COL_NEAR = self.closest_color(S_COL, COLORS)
-        print(S_COL,'-', S_COL_NEAR)
+        
         # itterate over colors list
-        for color in lst:
+        for col in color:
             # if color match with 1st color
-            if F_COL_NEAR == color[1]:
+            if F_COL_NEAR == col[1]:
                 # append 1st color name to LST
-                LST.append(color[0])
-                for prim in PRIM_NAMES:
-                    if color[0] == prim[0]:
-                        LST.append(prim[1])
+                LST.append(col[0])
+                LST.append(col[2])
+                LST.append(col[3])
             # if color match to second closest color code
-            if S_COL_NEAR == color[1]:
+            if S_COL_NEAR == col[1]:
                 # appent color name to LST
-                LST.append(color[0])  
-                for prim in PRIM_NAMES:
-                    if color[0] == prim[0]:
-                        LST.append(prim[1])
+                LST.append(col[0])  
+                LST.append(col[2])
+                LST.append(col[3])
         # return list of all reuqured data
         return LST
 
     #-----------------------------main FUNCTION---------------------------------#
     def main(self):
         # all the fields names in a list
-        header = ["Image-Name", "First-Dominant-Color", "First-Dominant-Color-Primary", "Second-Dominant-Color", "Second-Dominant-Primary"]
+        header = ["Image Name", "First Dominant Color", "First Dominant Color Primary", "First dominant string color", "Second Dominant Color", "Second Dominant Primary", "Second dominant string color"]
         # call load_imgs function to get list of images paths in path variable
         path = self.LOAD_IMGS(self.pth)
         # create and open output.csv file
@@ -137,16 +141,15 @@ class DOMINAN_COLORS:
             # write headers to the file
             csv_writer.writerow(header)
             # itterate over images paths
-            for e, PTH in enumerate(path):
+            for PTH in tqdm(path):
                 # display number of images processed
-                
                 # call IMAGE_DATA function to get list of image data for each image
-                lst = self.IMAGE_DATA(PTH)
-                # display data
-                print(lst)
-                # write one row of data for each image file
-                csv_writer.writerow(lst)
-                print(str(e+1), 'IMAGES PROCESSED')
+                try:
+                    lst = self.IMAGE_DATA(PTH)
+                    # write one row of data for each image file
+                    csv_writer.writerow(lst)
+                except:
+                    print('Process failed for:', PTH)
         return
 
 

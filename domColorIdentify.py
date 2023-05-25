@@ -52,15 +52,16 @@ class DOMINAN_COLORS:
         return files
     #-----------------------DOM COLORS EXTRACTOR--------------------------------#
     def DOM_COLORS(self, pth):
-        img = Image.open(pth)                   # Open image
+        img = Image.open(pth)              # Open image
         curr_col = ImageEnhance.Color(img)
         new_col = 2.5
         img_colored = curr_col.enhance(new_col)
-        reduced = img_colored.convert("P", palette=Image.ADAPTIVE, colors=2) # convert to web palette (216 colors)
+        reduced = img_colored.convert("P", palette=Image.ADAPTIVE, colors=5) # convert to web palette (216 colors)
+        
         palette = reduced.getpalette() # get palette as [r,g,b,r,g,b,...]
         palette = [palette[3*n:3*n+3] for n in range(256)] # group 3 by 3 = [[r,g,b],[r,g,b],...]
         color_count = [(n, palette[m]) for n,m in reduced.getcolors()]
-        
+        color_count.sort(reverse=True)
         F_max = tuple(color_count[0][1])
         S_max = tuple(color_count[1][1])
         return F_max, S_max
@@ -102,7 +103,6 @@ class DOMINAN_COLORS:
         LST.append(img_name)
         # calling DOM_COLORS function to get first and second dominant color
         F_COL, S_COL= self.DOM_COLORS(pth)
-        
         # print(F_COL, S_COL)
         # call closest_color function to get first closest color in color list
         

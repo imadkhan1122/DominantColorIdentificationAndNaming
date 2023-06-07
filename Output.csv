@@ -1,11 +1,513 @@
 Image Name,First Dominant Color,First Dominant Color Primary,First dominant string color,Second Dominant Color,Second Dominant Primary,Second dominant string color
-bg_1.jpg,Blood Red,Brown,LightBrown,DarkSlateGray or DarkSlateGrey (W3C),Green,Navy
-gbb.jpg,Desert Sand,Beige,Beige,Dark Sienna,Brown,LightBrown
-ggw.jpg,Dark Forest Green,Green,Green,DarkOliveGreen (W3C),Green,SageGreen
-bgb.jpg,Charcoal,Black,Black,Carbon Gray,Gray,Gray
-gg.jpg,Metallic Gold,Gold,Beige,Copper,Brown,Beige
-bg.jpg,Dark Sienna,Brown,LightBrown,Wood,Brown,LightBrown
-gb.jpg,Desert Sand,Beige,Beige,Camel Brown,Brown,Beige
-ry.jpg,Mahogany,Brown,LightBrown,Red (W3C),Red,Red
-gbg.jpg,Gray Brown,Brown,Black,Pale Silver,Gray,Gray
-pp.jpg,Charcoal,Black,Black,Blood Red,Brown,LightBrown
+Design #10-Rectangular-Pink.jpg,HotPink (W3C),Pink,Rose,Mauve,Purple,Rose
+Design #12-Rectangular-Pink.jpg,HotPink (W3C),Pink,Rose,Mauve,Purple,Rose
+Design #8-Rectangular-Light Blue.jpg,Tiffany Blue,Blue,SkyBlue,Water,Blue,SkyBlue
+Design #9-Rounded-Yellow.jpg,Linen (W3C),Beige,White,Gold (W3C),Yellow,Yellow
+Design #7-Rounded-Beige.jpg,Light Gold,Gold,Beige,Puce,Purple,Beige
+Design #4-Rounded-Light Blue.jpg,Blue Diamond,Blue,SkyBlue,Water,Blue,SkyBlue
+Design #7-Rounded-Purple.jpg,Canary Blue,Blue,Navy,Platinum,Gray,Gray
+Design 12 Green.jpg,LightGray or LightGrey (W3C),Gray,Gray,SpringGreen (W3C),Green,SageGreen
+Design #8-Rectangular-Dark Brown.jpg,Bakers Brown,Brown,LightBrown,Deer Brown,Brown,Beige
+Design #11-Rounded-Light Brown.jpg,Dark Gold,Brown,LightBrown,Macaroni and Cheese,Yellow,Beige
+Design #13-Rounded-Bright Red.jpg,Dark Pink,Pink,Rose,Red (W3C),Red,Red
+Design #13-Rounded-Sage.jpg,Dark Forest Green,Green,Green,Green Thumb,Green,SageGreen
+Design 12 Grey.jpg,DarkGray or DarkGrey (W3C),Gray,Gray,Platinum,Gray,Gray
+Design #15-Rounded-Burgundy.jpg,Donut Pink,Pink,Rose,Ferrari Red,Red,Red
+Design #13-Rounded-Dark Brown.jpg,Mahogany,Brown,LightBrown,Mustard Yellow,Yellow,Yellow
+Design #9-Rectangular-Sage.jpg,Dark Forest Green,Green,Green,Medium Forest Green,Green,SageGreen
+Design #7-Rounded-Sage.jpg,Dinosaur Green,Green,SageGreen,Light Jade,Green,SageGreen
+Design #6-Rectangular-Light Blue.jpg,LightSkyBlue (W3C),Blue,BabyBlue,Deep Teal,Green,Black
+Design #1-Rectangular-Burgundy.jpg,Pastel Purple,Pink,Rose,Dark Raspberry,Purple,Rose
+Design 12 Dark Brown.jpg,Cinnamon,Brown,LightBrown,Chrome Gold,Yellow,Yellow
+Design #2-Rectangular-Purple.jpg,Ash White,Beige,White,Aztech Purple,Purple,Navy
+Design #7-Rectangular-Orange.jpg,Platinum,Gray,Gray,Fire Engine Red,Red,Red
+Design #9-Rectangular-Forest Green.jpg,Deep Teal,Green,Black,Deep Teal,Green,Black
+Design #11-Rounded-Sage.jpg,Camouflage Green,Green,SageGreen,Frog Green,Green,SageGreen
+Design #5-Rounded-Navy.jpg,LightSteelBlue (W3C),Blue,SkyBlue,Sapphire Blue,Blue,Navy
+Design #8-Rounded-Forest Green.jpg,Medium Forest Green,Green,SageGreen,Sage Green,Green,Gray
+Design #6-Circular-Pink.jpg,HotPink (W3C),Pink,Rose,Mauve,Purple,Rose
+Design #12-Rectangular-Yellow.jpg,Soft Ivory,Beige,White,DarkOrange (W3C),Orange,LightBrown
+Design #9-Rounded-Blue.jpg,Blue Koi,Blue,BabyBlue,LightSteelBlue (W3C),Blue,SkyBlue
+Design #2-Rounded-Orange.jpg,HoneyDew (W3C),Green,Beige,Scarlet,Red,Red
+Design #1-Rectangular-Bright Red.jpg,Dark Hot Pink,Pink,Rose,Periwinkle Pink,Pink,Rose
+Design #8-Rounded-Orange.jpg,Carrot Orange,Orange,LightBrown,Neon Red,Red,Red
+Design #9-Rounded-Sage.jpg,Dark Forest Green,Green,Green,Green Thumb,Green,SageGreen
+Design #13-Rounded-Burgundy.jpg,LightPink (W3C),Pink,Rose,Ferrari Red,Red,Red
+Design #4-Rounded-Navy.jpg,Cobalt Blue,Blue,Navy,LightSteelBlue (W3C),Blue,SkyBlue
+Design #7-Rounded-Light Brown.jpg,Sepia,Brown,LightBrown,Rosy Pink,Pink,Gray
+Design #10-Circular-Yellow.jpg,Off White,Beige,White,Deep Yellow,Yellow,Yellow
+Design #8-Rectangular-Blue.jpg,DodgerBlue (W3C),Blue,BabyBlue,Iceberg,Blue,BabyBlue
+Design #6-Circular-Navy.jpg,Balloon Blue,Blue,Navy,Gulf Blue,Blue,SkyBlue
+Design #6-Rectangular-Navy.jpg,Denim Dark Blue,Blue,Navy,Sapphire Blue,Blue,Navy
+Design #13-Rectangular-Dark Brown.jpg,Grapefruit,Red,LightBrown,Chrome Gold,Yellow,Yellow
+Design #5-Rectangular-Light Blue.jpg,Tiffany Blue,Blue,SkyBlue,Water,Blue,SkyBlue
+Design #13-Rounded-Light Blue.jpg,LightSkyBlue (W3C),Blue,BabyBlue,Water,Blue,SkyBlue
+Design #8-Rectangular-Beige.jpg,Light Gold,Gold,Beige,Puce,Purple,Beige
+Design #3-Rounded-Grey.jpg,Battleship Gray,Gray,Gray,Gray Cloud,Gray,Gray
+Design #15-Rectangular-Sage.jpg,Dinosaur Green,Green,SageGreen,Green Thumb,Green,SageGreen
+Design #6-Circular-Bright Red.jpg,Old Burgundy,Brown,Black,Neon Hot Pink,Pink,Rose
+Design #9-Rectangular-Light Brown.jpg,Mahogany,Brown,LightBrown,Macaroni and Cheese,Yellow,Beige
+Design #7-Rounded-Green.jpg,Kelly Green,Green,SageGreen,Parrot Green,Green,Green
+Design #13-Rectangular-Green(1).jpg,Magic Mint,Green,SkyBlue,MediumSpringGreen (W3C),Green,Green
+Design #8-Rounded-Purple.jpg,Light Slate Blue,Blue,Navy,Aztech Purple,Purple,Navy
+Design #1-Circular-Black.jpg,Night,Black,Navy,DarkGray or DarkGrey (W3C),Gray,Gray
+Design #7-Rounded-Orange.jpg,Light Salmon Rose,Pink,Rose,Fire Engine Red,Red,Red
+Design #15-Rectangular-Black.jpg,Gray or Grey (W3C),Gray,Gray,Vampire Gray,Gray,Gray
+Design #7-Rectangular-Forest Green.jpg,Midnight,Gary,Black,Dinosaur Green,Green,SageGreen
+Design #13-Rectangular-Yellow.jpg,BlanchedAlmond (W3C),Beige,White,DarkOrange (W3C),Orange,LightBrown
+Design #12-Rectangular-Grey.jpg,DarkGray or DarkGrey (W3C),Gray,Gray,Gainsboro (W3C),Gray,Gray
+Design #1-Rectangular-Orange.jpg,Platinum,Gray,Gray,Bright Orange,Orange,LightBrown
+Design #7-Rectangular-Yellow.jpg,Pearl White,Beige,White,Deep Yellow,Yellow,Yellow
+Design #6-Circular-Forest Green.jpg,Jade,Green,SageGreen,Sea Turtle Green,Green,BabyBlue
+Design #11-Rectangular-Dark Brown.jpg,Peru (W3C),Brown,LightBrown,Saffron Red,Red,LightBrown
+Design #2-Rectangular-Sage.jpg,Dinosaur Green,Green,SageGreen,Frog Green,Green,SageGreen
+Design #2-Rounded-Yellow.jpg,Pearl White,Beige,White,Gold (W3C),Yellow,Yellow
+Design #9-Rounded-Light Blue.jpg,LightSkyBlue (W3C),Blue,BabyBlue,Water,Blue,SkyBlue
+Design #3-Rectangular-Bright Red.jpg,Deep Rose,Pink,Rose,Red (W3C),Red,Red
+Design #10-Circular-Grey.jpg,Gainsboro (W3C),Gray,Gray,Sonic Silver,Gray,Gray
+Design #5-Rounded-Burgundy.jpg,Donut Pink,Pink,Rose,Ferrari Red,Red,Red
+Design #9-Rectangular-Black.jpg,Night,Black,Navy,Midnight,Gary,Black
+Design #2-Rectangular-Light Blue.jpg,Blue Diamond,Blue,SkyBlue,Lavender Blue,Blue,BabyBlue
+Design #1-Circular-Beige.jpg,Brown Sand,Brown,LightBrown,Sun Yellow,Yellow,Yellow
+Design #15-Rectangular-Pink.jpg,HotPink (W3C),Pink,Rose,Deep Mauve,Purple,Rose
+Design #11-Rounded-Pink.jpg,Neon Pink,Pink,Rose,Violet (W3C),Purple,Rose
+Design #1-Rectangular-Grey.jpg,DarkGray or DarkGrey (W3C),Gray,Gray,Platinum,Gray,Gray
+Design #11-Rectangular-Light Blue.jpg,Blue Diamond,Blue,SkyBlue,Jeans Blue,Blue,SkyBlue
+Design #3-Rounded-Yellow.jpg,Off White,Beige,White,Gold (W3C),Yellow,Yellow
+Design #5-Rounded-Blue.jpg,Crystal Blue,Blue,BabyBlue,LightSteelBlue (W3C),Blue,SkyBlue
+Design #2-Rectangular-Burgundy.jpg,LightPink (W3C),Pink,Rose,Ferrari Red,Red,Red
+Design #15-Rounded-Grey.jpg,Gainsboro (W3C),Gray,Gray,Metallic Silver,Gray,Gray
+Design #7-Rectangular-Dark Brown.jpg,Bakers Brown,Brown,LightBrown,Deer Brown,Brown,Beige
+Design #2-Rounded-Dark Brown.jpg,Red Fox,Red,LightBrown,Saffron Red,Red,LightBrown
+Design #15-Rectangular-LightBlue.jpg,Day Sky Blue,Blue,BabyBlue,Water,Blue,SkyBlue
+Design #3-Rounded-Burgundy.jpg,Donut Pink,Pink,Rose,Ferrari Red,Red,Red
+Design #14-Rounded-Light Brown.jpg,Mahogany,Brown,LightBrown,Sun Yellow,Yellow,Yellow
+Design 12 Purple.jpg,Platinum,Gray,Gray,Neon Orange,Orange,LightBrown
+Design #13-Rounded-Forest Green.jpg,Dark Forest Green,Green,Green,Sage Green,Green,Gray
+Design #6-Rectangular-Black.jpg,Black Cow,Black,Black,DarkGray or DarkGrey (W3C),Gray,Gray
+Design #7-Rounded-Grey.jpg,Platinum,Gray,Gray,SlateGray or SlateGrey (W3C),Gray,Gray
+Design #11-Rounded-Bright Red.jpg,Violet Red,Pink,Rose,Red (W3C),Red,Red
+Design #3-Rounded-Light Blue.jpg,Blue Diamond,Blue,SkyBlue,Water,Blue,SkyBlue
+Design #9-Rounded-Green.jpg,Magic Mint,Green,SkyBlue,SpringGreen (W3C),Green,SageGreen
+Design #14-Rounded-Light Blue.jpg,Blue Diamond,Blue,SkyBlue,Water,Blue,SkyBlue
+Design #6-Circular-Black.jpg,Battleship Gray,Gray,Gray,Vampire Gray,Gray,Gray
+Design #9-Rectangular-Beige.jpg,Petra Gold,Brown,LightBrown,Macaroni and Cheese,Yellow,Beige
+Design #2-Rounded-Light Blue.jpg,Blue Diamond,Blue,SkyBlue,Lavender Blue,Blue,BabyBlue
+Design #6-Rectangular-Sage.jpg,Night,Black,Navy,Dark Forest Green,Green,Green
+Design #12-Rectangular-Navy.jpg,Jeans Blue,Blue,SkyBlue,Sapphire Blue,Blue,Navy
+Design #15-Rectangular-ForestGreen.jpg,SlateGray or SlateGrey (W3C),Gray,Gray,Deep Teal,Green,Black
+Design #10-Rectangular-Blue.jpg,Blue Koi,Blue,BabyBlue,Jeans Blue,Blue,SkyBlue
+Design #14-Rounded-Dark Brown.jpg,Blood Red,Brown,LightBrown,Chrome Gold,Yellow,Yellow
+Design #2-Rounded-Beige.jpg,Copper,Brown,Beige,Sun Yellow,Yellow,Yellow
+Design #14-Rounded-Sage.jpg,Dark Forest Green,Green,Green,Green Thumb,Green,SageGreen
+Design #1-Circular-Yellow.jpg,OldLace (W3C),Beige,White,Gold (W3C),Yellow,Yellow
+Design #5-Rounded-Pink.jpg,HotPink (W3C),Pink,Rose,Mauve,Purple,Rose
+Design #14-Rectangular-Beige.jpg,Petra Gold,Brown,LightBrown,Sun Yellow,Yellow,Yellow
+Design #3-Rectangular-Beige.jpg,Petra Gold,Brown,LightBrown,Cardboard Brown,Gold,Beige
+Design #13-Rectangular-Burgundy.jpg,LightPink (W3C),Pink,Rose,Raspberry Purple,Purple,Rose
+Design #10-Circular-Pink.jpg,Neon Pink,Pink,Rose,Mauve,Purple,Rose
+Design #12-Rectangular-Forest Green.jpg,Deep Teal,Green,Black,Sage Green,Green,Gray
+Design #13-Rectangular-Beige.jpg,Dark Almond,Brown,Beige,Sun Yellow,Yellow,Yellow
+Design #6-Circular-Yellow.jpg,Caramel,Brown,LightBrown,Blonde,Beige,Yellow
+Design #10-Circular-Black.jpg,Night,Black,Navy,DarkGray or DarkGrey (W3C),Gray,Gray
+Design #4-Rounded-Black.jpg,Night,Black,Navy,DarkGray or DarkGrey (W3C),Gray,Gray
+Design #15-Rounded-Beige.jpg,Brown Sand,Brown,LightBrown,Tiger Orange,Brown,LightBrown
+Design #10-Circular-Purple.jpg,Dark White,Beige,White,BlueViolet (W3C),Purple,Navy
+Design #14-Rectangular-Black.jpg,Night,Black,Navy,DarkGray or DarkGrey (W3C),Gray,Gray
+Design #1-Rectangular-Sage.jpg,Dark Forest Green,Green,Green,Light Jade,Green,SageGreen
+Design 12 Yellow.jpg,Gold (W3C),Yellow,Yellow,DarkOrange (W3C),Orange,LightBrown
+Design #1-Circular-Dark Brown.jpg,Saffron Red,Red,LightBrown,Chrome Gold,Yellow,Yellow
+Design #5-Rounded-Black.jpg,DarkGray or DarkGrey (W3C),Gray,Gray,Gray Wolf,Gray,Gray
+Design #5-Rectangular-Navy.jpg,Earth Blue,Blue,Navy,LightSteelBlue (W3C),Blue,SkyBlue
+Design #8-Rectangular-Navy.jpg,Earth Blue,Blue,Navy,LightSteelBlue (W3C),Blue,SkyBlue
+Design #1-Circular-Light Brown.jpg,Petra Gold,Brown,LightBrown,Sun Yellow,Yellow,Yellow
+Design #4-Rounded-Forest Green.jpg,Deep Teal,Green,Black,Sage Green,Green,Gray
+Design #4-Rectangular-Purple.jpg,Aztech Purple,Purple,Navy,Purple Plum,Purple,Navy
+Design #13-Rectangular-Orange.jpg,Platinum,Gray,Gray,DarkOrange (W3C),Orange,LightBrown
+Design #4-Rounded-Yellow.jpg,Pearl White,Beige,White,Gold (W3C),Yellow,Yellow
+Design #2-Rectangular-Green.jpg,Magic Mint,Green,SkyBlue,Parrot Green,Green,Green
+Design #14-Rectangular-Blue.jpg,LightSteelBlue (W3C),Blue,SkyBlue,Neon Blue,Blue,BabyBlue
+Design #5-Rounded-Forest Green.jpg,Dark Forest Green,Green,Green,Sage Green,Green,Gray
+Design #12-Rectangular-Green.jpg,Jade,Green,SageGreen,Magic Mint,Green,SkyBlue
+Design #3-Rounded-Forest Green.jpg,LightSteelBlue (W3C),Blue,SkyBlue,Deep Teal,Green,Black
+Design #15-Rectangular-Navy.jpg,Blue Koi,Blue,BabyBlue,Sapphire Blue,Blue,Navy
+Design #8-Rounded-Grey.jpg,DarkGray or DarkGrey (W3C),Gray,Gray,Gray or Grey (W3C),Gray,Gray
+Design #7-Rounded-Blue.jpg,Butterfly Blue,Blue,BabyBlue,Jeans Blue,Blue,SkyBlue
+Design #12-Rectangular-Purple.jpg,Dark White,Beige,White,Sapphire Blue,Blue,Navy
+Design #2-Rounded-Sage.jpg,Dinosaur Green,Green,SageGreen,Green Thumb,Green,SageGreen
+Design #11-Rectangular-Beige.jpg,Brown Sand,Brown,LightBrown,Copper,Brown,Beige
+Design #5-Rounded-Light Blue.jpg,LightSkyBlue (W3C),Blue,BabyBlue,Water,Blue,SkyBlue
+Design #11-Rounded-Yellow.jpg,DarkGoldenRod (W3C),Brown,LightBrown,Gold (W3C),Yellow,Yellow
+Design #15-Rounded-Navy.jpg,Blue Koi,Blue,BabyBlue,Sapphire Blue,Blue,Navy
+Design #11-Rectangular-Grey.jpg,Battleship Gray,Gray,Gray,Silver (W3C),Gray,Gray
+Design #8-Rounded-Green.jpg,Green Thumb,Green,SageGreen,MediumSpringGreen (W3C),Green,Green
+Design #6-Circular-Blue.jpg,Blue Koi,Blue,BabyBlue,SteelBlue (W3C),Blue,BabyBlue
+Design #8-Rectangular-Burgundy.jpg,Periwinkle Pink,Pink,Rose,Dark Scarlet,Red,Black
+Design #5-Rectangular-Dark Brown.jpg,Bakers Brown,Brown,LightBrown,Deer Brown,Brown,Beige
+Design #9-Rounded-Burgundy.jpg,Donut Pink,Pink,Rose,Ferrari Red,Red,Red
+Design #8-Rectangular-Purple.jpg,Canary Blue,Blue,Navy,Platinum,Gray,Gray
+Design #14-Rounded-Bright Red.jpg,Pink (W3C),Pink,Rose,Red (W3C),Red,Red
+Design #8-Rectangular-Bright Red.jpg,Periwinkle Pink,Pink,Rose,Red (W3C),Red,Red
+Design 12 Blue.jpg,Blue Koi,Blue,BabyBlue,DodgerBlue (W3C),Blue,BabyBlue
+Design #4-Rounded-Beige.jpg,Brown Sand,Brown,LightBrown,Cardboard Brown,Gold,Beige
+Design #6-Circular-Light Brown.jpg,Oil,Black,Black,Dark Gold,Brown,LightBrown
+Design #13-Rectangular-Purple.jpg,Champagne,Beige,White,Light Slate Blue,Blue,Navy
+Design #14-Rectangular-Light Blue.jpg,Blue Diamond,Blue,SkyBlue,Water,Blue,SkyBlue
+Design #14-Rounded-Grey.jpg,Battleship Gray,Gray,Gray,Gainsboro (W3C),Gray,Gray
+Design #7-Rectangular-Beige.jpg,Vanilla,Gold,Yellow,Puce,Purple,Beige
+Design #15-Rectangular-Grey.jpg,Metallic Silver,Gray,Gray,Gunmetal Gray,Gray,Black
+Design #14-Rectangular-Orange.jpg,Platinum,Gray,Gray,Scarlet,Red,Red
+Design #5-Rectangular-Burgundy.jpg,Blush Pink,Pink,Rose,Dark Scarlet,Red,Black
+Design #3-Rectangular-Dark Brown.jpg,Saffron Red,Red,LightBrown,Mustard Yellow,Yellow,Yellow
+Design #1-Circular-Orange.jpg,Platinum,Gray,Gray,Scarlet,Red,Red
+Design #7-Rounded-Pink.jpg,Heliotrope Purple,Purple,Navy,Periwinkle,Purple,Gray
+Design #2-Rounded-Blue.jpg,LightSteelBlue (W3C),Blue,SkyBlue,Neon Blue,Blue,BabyBlue
+Design #14-Rounded-Blue.jpg,LightSteelBlue (W3C),Blue,SkyBlue,Neon Blue,Blue,BabyBlue
+Design #8-Rounded-Navy.jpg,Blue Koi,Blue,BabyBlue,Cobalt Blue,Blue,Navy
+Design #11-Rounded-Beige.jpg,Brown Sand,Brown,LightBrown,Petra Gold,Brown,LightBrown
+Design #3-Rectangular-Burgundy.jpg,Pink (W3C),Pink,Rose,Ferrari Red,Red,Red
+Design #10-Rectangular-Forest green.jpg,Dark Forest Green,Green,Green,Sage Green,Green,Gray
+Design #9-Rounded-Purple.jpg,Light Slate Blue,Blue,Navy,Aztech Purple,Purple,Navy
+Design #2-Rounded-Bright Red.jpg,Violet Red,Pink,Rose,Red (W3C),Red,Red
+Design #1-Rectangular-Green.jpg,Kelly Green,Green,SageGreen,Light Rose Green,Green,SageGreen
+Design #10-Circular-Green.jpg,Magic Mint,Green,SkyBlue,Parrot Green,Green,Green
+Design #5-Rounded-Light Brown.jpg,Brown Sand,Brown,LightBrown,Sun Yellow,Yellow,Yellow
+Design #9-Rectangular-Bright Red.jpg,Bean Red,Red,Rose,Red (W3C),Red,Red
+Design #11-Rectangular-Burgundy.jpg,Dusty Pink,Pink,Rose,Ferrari Red,Red,Red
+Design #12-Rectangular-Light Brown.jpg,Sienna (W3C),Brown,LightBrown,Sun Yellow,Yellow,Yellow
+Design #8-Rounded-Blue.jpg,LightSteelBlue (W3C),Blue,SkyBlue,Neon Blue,Blue,BabyBlue
+Design #2-Rectangular-Forest Green.jpg,Deep Teal,Green,Black,Sage Green,Green,Gray
+Design #10-Circular-Forest Green.jpg,Dark Forest Green,Green,Green,Sage Green,Green,Gray
+Design #2-Rounded-Black.jpg,Night,Black,Navy,DarkGray or DarkGrey (W3C),Gray,Gray
+Design #1-Circular-Navy.jpg,Cobalt Blue,Blue,Navy,LightBlue (W3C),Blue,SkyBlue
+Design #2-Rounded-Burgundy.jpg,Light Red,Pink,Rose,Ferrari Red,Red,Red
+Design #13-Rounded-Black.jpg,Black (W3C),Black,Black,Gray or Grey (W3C),Gray,Gray
+Design #10-Circular-Dark Brown.jpg,Mahogany,Brown,LightBrown,Chrome Gold,Yellow,Yellow
+Design #8-Rectangular-Sage.jpg,Dinosaur Green,Green,SageGreen,Light Jade,Green,SageGreen
+Design #15-Rounded-Violet.jpg,Light Slate Blue,Blue,Navy,Aztech Purple,Purple,Navy
+Design #4-Rounded-Sage.jpg,Dinosaur Green,Green,SageGreen,Green Thumb,Green,SageGreen
+Design #10-Circular-Burgundy.jpg,Donut Pink,Pink,Rose,Ferrari Red,Red,Red
+Design #10-Circular-Light Blue.jpg,Blue Turquoise,Green,BabyBlue,Water,Blue,SkyBlue
+Design #9-Rectangular-Navy.jpg,Cobalt Blue,Blue,Navy,Sapphire Blue,Blue,Navy
+Design #9-Rounded-Black.jpg,Night,Black,Navy,DarkGray or DarkGrey (W3C),Gray,Gray
+Design #8-Rounded-Beige.jpg,Brown Sand,Brown,LightBrown,Cardboard Brown,Gold,Beige
+Design #7-Rounded-Yellow.jpg,Deep Yellow,Yellow,Yellow,Mustard Yellow,Yellow,Yellow
+Design #3-Rectangular-Blue.jpg,Jeans Blue,Blue,SkyBlue,Neon Blue,Blue,BabyBlue
+Design #1-Circular-Blue.jpg,LightSteelBlue (W3C),Blue,SkyBlue,Neon Blue,Blue,BabyBlue
+Design #1-Circular-Burgundy.jpg,Pink (W3C),Pink,Rose,Ferrari Red,Red,Red
+Design #6-Rectangular-Bright Red.jpg,Charcoal,Black,Black,Violet Red,Pink,Rose
+Design #14-Rounded-Beige.jpg,Petra Gold,Brown,LightBrown,Sun Yellow,Yellow,Yellow
+Design #10-Circular-Beige.jpg,Petra Gold,Brown,LightBrown,Cardboard Brown,Gold,Beige
+Design #15-Rounded-Dark Brown.jpg,Cinnamon,Brown,LightBrown,Chrome Gold,Yellow,Yellow
+Design #12-Rectangular-Dark Brown.jpg,Sedona,Brown,LightBrown,Chrome Gold,Yellow,Yellow
+Design #11-Rectangular-Green.jpg,MediumAquaMarine (W3C),Green,SkyBlue,Parrot Green,Green,Green
+Design #14-Rectangular-Pink.jpg,Neon Pink,Pink,Rose,Periwinkle,Purple,Gray
+Design #7-Rectangular-Sage.jpg,Dinosaur Green,Green,SageGreen,Light Jade,Green,SageGreen
+Design #2-Rectangular-Blue.jpg,LightSteelBlue (W3C),Blue,SkyBlue,Neon Blue,Blue,BabyBlue
+Design #13-Rectangular-Brown.jpg,Dark Gold,Brown,LightBrown,Khaki (W3C),Gold,Beige
+Design #13-Rectangular-Grey.jpg,DarkGray or DarkGrey (W3C),Gray,Gray,Platinum,Gray,Gray
+Design #11-Rectangular-Sage.jpg,Dinosaur Green,Green,SageGreen,Frog Green,Green,SageGreen
+Design #3-Rounded-Orange.jpg,Ash White,Beige,White,Scarlet,Red,Red
+Design #8-Rounded-Sage.jpg,Dinosaur Green,Green,SageGreen,Dinosaur Green,Green,SageGreen
+Design #13-Rounded-Beige.jpg,Tiger Orange,Brown,LightBrown,Sun Yellow,Yellow,Yellow
+Design #8-Rounded-Bright Red.jpg,Dark Pink,Pink,Rose,Red (W3C),Red,Red
+Design #2-Rounded-Green.jpg,Pale Blue Lily,Blue,SkyBlue,Parrot Green,Green,Green
+Design #1-Circular-Green.jpg,LightGray or LightGrey (W3C),Gray,Gray,Parrot Green,Green,Green
+Design #4-Rounded-Burgundy.jpg,LightPink (W3C),Pink,Rose,Ferrari Red,Red,Red
+Design #11-Rectangular-Light Brown.jpg,Dark Gold,Brown,LightBrown,Macaroni and Cheese,Yellow,Beige
+Design #14-Rounded-Navy.jpg,Cobalt Blue,Blue,Navy,LightSteelBlue (W3C),Blue,SkyBlue
+Design #15-Rounded-Green.jpg,Magic Mint,Green,SkyBlue,MediumSpringGreen (W3C),Green,Green
+Design #9-Rounded-Pink.jpg,HotPink (W3C),Pink,Rose,Neon Pink,Pink,Rose
+Design #10-Circular-Bright Red.jpg,Pink (W3C),Pink,Rose,Watermelon Pink,Pink,Rose
+Design #1-Circular-Forest Green.jpg,Deep Teal,Green,Black,Gunmetal Gray,Gray,Black
+Design #7-Rectangular-Bright Red.jpg,Periwinkle Pink,Pink,Rose,Ferrari Red,Red,Red
+Design #15-Rounded-Orange.jpg,DarkOrange (W3C),Orange,LightBrown,Neon Orange,Orange,LightBrown
+Design #7-Rounded-Light Blue.jpg,Blue Koi,Blue,BabyBlue,Water,Blue,SkyBlue
+Design #5-Rounded-Dark Brown.jpg,Chocolate (W3C),Brown,LightBrown,Chrome Gold,Yellow,Yellow
+Design #10-Circular-Orange.jpg,Dark White,Beige,White,Neon Red,Red,Red
+Design #15-Rounded-Bright Red.jpg,LightPink (W3C),Pink,Rose,Red (W3C),Red,Red
+Design #9-Rounded-Grey.jpg,DarkGray or DarkGrey (W3C),Gray,Gray,Gray or Grey (W3C),Gray,Gray
+Design #3-Rounded-Navy.jpg,Cobalt Blue,Blue,Navy,LightSteelBlue (W3C),Blue,SkyBlue
+Design #8-Rounded-Pink.jpg,HotPink (W3C),Pink,Rose,Neon Pink,Pink,Rose
+Design #2-Rectangular-Orange.jpg,Dark White,Beige,White,Scarlet,Red,Red
+Design #4-Rounded-Grey.jpg,Battleship Gray,Gray,Gray,Gainsboro (W3C),Gray,Gray
+Design #10-Rectangular-Sage.jpg,Dark Forest Green,Green,Green,Green Thumb,Green,SageGreen
+Design #7-Rounded-Dark Brown.jpg,Bakers Brown,Brown,LightBrown,Deer Brown,Brown,Beige
+Design #8-Rectangular-Brown.jpg,Dark Almond,Brown,Beige,Sun Yellow,Yellow,Yellow
+Design #4-Rectangular-Light Brown.jpg,Dark Gold,Brown,LightBrown,Sun Yellow,Yellow,Yellow
+Design #11-Rounded-.jpg,Night,Black,Navy,Sonic Silver,Gray,Gray
+Design #14-Rectangular-Navy.jpg,Cobalt Blue,Blue,Navy,LightBlue (W3C),Blue,SkyBlue
+Design #1-Rectangular-Black.jpg,DarkGray or DarkGrey (W3C),Gray,Gray,Iron Gray,Gray,Gray
+Design #8-Rectangular-Grey.jpg,Gray Cloud,Gray,Gray,Metallic Silver,Gray,Gray
+Design #11-Rectangular-Bright Red.jpg,Carnation Pink,Pink,Rose,Red (W3C),Red,Red
+Design #3-Rectangular-Green.jpg,LightSteelBlue (W3C),Blue,SkyBlue,Parrot Green,Green,Green
+Design #4-Rectangular-Pink.jpg,HotPink (W3C),Pink,Rose,Neon Pink,Pink,Rose
+Design #13-Rounded-Grey.jpg,DarkGray or DarkGrey (W3C),Gray,Gray,Platinum,Gray,Gray
+Design #12-Rectangular-Beige.jpg,Petra Gold,Brown,LightBrown,Cardboard Brown,Gold,Beige
+Design #1-Rectangular-Pink.jpg,Heliotrope Purple,Purple,Navy,Periwinkle,Purple,Gray
+Design #12-Rectangular-Burgundy.jpg,Donut Pink,Pink,Rose,Cherry Red,Red,Rose
+Design #10-Rectangular-Black.jpg,Black Eel,Black,Black,DarkGray or DarkGrey (W3C),Gray,Gray
+Design #6-Rectangular-Dark Brown.jpg,Charcoal,Black,Black,Grapefruit,Red,LightBrown
+Design #4-Rounded-Dark Brown.jpg,Saffron Red,Red,LightBrown,Chrome Gold,Yellow,Yellow
+Design #9-Rounded-Orange.jpg,Ash White,Beige,White,Neon Red,Red,Red
+Design #3-Rectangular-Light Blue.jpg,Blue Diamond,Blue,SkyBlue,Day Sky Blue,Blue,BabyBlue
+Design 12 Pink.jpg,Champagne,Beige,White,Aztech Purple,Purple,Navy
+Design #7-Rounded-Black.jpg,Night,Black,Navy,SlateGray or SlateGrey (W3C),Gray,Gray
+Design #10-Rectangular-Burgundy.jpg,Donut Pink,Pink,Rose,Cherry Red,Red,Rose
+Design #5-Rounded-Yellow.jpg,Off White,Beige,White,Orange (W3C),Orange,LightBrown
+Design #4-Rounded-Blue.jpg,LightSteelBlue (W3C),Blue,SkyBlue,Neon Blue,Blue,BabyBlue
+Design #6-Circular-Green.jpg,Dark Mint,Green,SageGreen,MediumSeaGreen (W3C),Green,SageGreen
+Design #5-Rectangular-Blue.jpg,Iceberg,Blue,BabyBlue,LightSteelBlue (W3C),Blue,SkyBlue
+Design #8-Rectangular-Forest Green.jpg,Midnight,Gary,Black,Dinosaur Green,Green,SageGreen
+Design #12-Rectangular-Sage.jpg,Deep Teal,Green,Black,Green Thumb,Green,SageGreen
+Design #8-Rectangular-Light Brown.jpg,Light Gold,Gold,Beige,Puce,Purple,Beige
+Design #6-Circular-Sage.jpg,Dark Forest Green,Green,Green,Green Thumb,Green,SageGreen
+Design #6-Rectangular-Green.jpg,Magic Mint,Green,SkyBlue,MediumSpringGreen (W3C),Green,Green
+Design #4-Rectangular-Blue.jpg,Jeans Blue,Blue,SkyBlue,Neon Blue,Blue,BabyBlue
+Design #7-Rectangular-Blue.jpg,Blue Koi,Blue,BabyBlue,Butterfly Blue,Blue,BabyBlue
+Design #14-Rectangular-Dark Brown.jpg,Saffron Red,Red,LightBrown,Chrome Gold,Yellow,Yellow
+Design #3-Rectangular-Yellow.jpg,Linen (W3C),Beige,White,Gold (W3C),Yellow,Yellow
+Design #8-Rectangular-Green.jpg,Light Rose Green,Green,SageGreen,Parrot Green,Green,Green
+Design #14-Rectangular-Bright Red.jpg,Deep Rose,Pink,Rose,Red (W3C),Red,Red
+Design #3-Rectangular-Purple.jpg,Aztech Purple,Purple,Navy,Purple Plum,Purple,Navy
+Design #15-Rectangular-Burgundy.jpg,Donut Pink,Pink,Rose,Ferrari Red,Red,Red
+Design #12-Rectangular-Light Blue.jpg,Day Sky Blue,Blue,BabyBlue,Water,Blue,SkyBlue
+Design #7-Rounded-Navy.jpg,Coral Blue,Blue,SkyBlue,Earth Blue,Blue,Navy
+Design #5-Rounded-Orange.jpg,Carrot Orange,Orange,LightBrown,Light Rose,Pink,Rose
+Design #3-Rectangular-Pink.jpg,HotPink (W3C),Pink,Rose,Neon Pink,Pink,Rose
+Design #15-Rounded-Sage.jpg,Dinosaur Green,Green,SageGreen,Green Thumb,Green,SageGreen
+Design #4-Rounded-Pink.jpg,Neon Pink,Pink,Rose,Mauve,Purple,Rose
+Design #10-Rectangular-Bright Red.jpg,LightPink (W3C),Pink,Rose,Bean Red,Red,Rose
+Design #2-Rounded-Light Brown.jpg,Mahogany,Brown,LightBrown,Cardboard Brown,Gold,Beige
+Design #1-Rectangular-Blue.jpg,DodgerBlue (W3C),Blue,BabyBlue,LightBlue (W3C),Blue,SkyBlue
+Design #15-Rectangular-Violet.jpg,Light Slate Blue,Blue,Navy,Aztech Purple,Purple,Navy
+Design #3-Rounded-Light Brown.jpg,Mahogany,Brown,LightBrown,Sun Yellow,Yellow,Yellow
+Design #9-Rectangular-Green.jpg,Parrot Green,Green,Green,Parrot Green,Green,Green
+Design #3-Rounded-Green.jpg,Magic Mint,Green,SkyBlue,Parrot Green,Green,Green
+Design #14-Rectangular-Light Brown.jpg,Mahogany,Brown,LightBrown,Khaki (W3C),Gold,Beige
+Design #4-Rectangular-Orange.jpg,Neon Orange,Orange,LightBrown,Neon Red,Red,Red
+Graphic_05Design_Design 5 Beige.jpg,Light Gold,Gold,Beige,Rosy-Finch,Purple,Rose
+Design #10-Rectangular-Grey.jpg,DarkGray or DarkGrey (W3C),Gray,Gray,Gainsboro (W3C),Gray,Gray
+Design #5-Rounded-Sage.jpg,Dinosaur Green,Green,SageGreen,Green Thumb,Green,SageGreen
+Design #10-Rectangular-Yellow.jpg,Blonde,Beige,Yellow,DarkOrange (W3C),Orange,LightBrown
+Design #13-Rectangular-Blue.jpg,Blue Koi,Blue,BabyBlue,Jeans Blue,Blue,SkyBlue
+Design #5-Rectangular-Green.jpg,Light Rose Green,Green,SageGreen,Parrot Green,Green,Green
+Design #11-Rounded-Grey.jpg,Battleship Gray,Gray,Gray,Silver (W3C),Gray,Gray
+Design #8-Rectangular-Black.jpg,Night,Black,Navy,DarkGray or DarkGrey (W3C),Gray,Gray
+Design #3-Rounded-Dark Brown.jpg,Saffron Red,Red,LightBrown,Chrome Gold,Yellow,Yellow
+Design 12 Forest Green.jpg,LightBlue (W3C),Blue,SkyBlue,Sapphire Blue,Blue,Navy
+Design #3-Rectangular-Forest Green.jpg,LightSteelBlue (W3C),Blue,SkyBlue,Deep Teal,Green,Black
+Design #14-Rounded-Burgundy.jpg,Donut Pink,Pink,Rose,Ferrari Red,Red,Red
+Design #4-Rectangular-Grey.jpg,DarkGray or DarkGrey (W3C),Gray,Gray,Gainsboro (W3C),Gray,Gray
+Design #10-Rectangular-Biege.jpg,Chestnut Red,Red,LightBrown,Sun Yellow,Yellow,Yellow
+Design #14-Rectangular-Yellow.jpg,Pearl White,Beige,White,Gold (W3C),Yellow,Yellow
+Design 12 Sage.jpg,Deep-Sea Green,Green,Green,Deep Teal,Green,Black
+Design #13-Rounded-Green.jpg,MediumSpringGreen (W3C),Green,Green,Parrot Green,Green,Green
+Design #3-Rectangular-Sage.jpg,LightSteelBlue (W3C),Blue,SkyBlue,Dinosaur Green,Green,SageGreen
+Design 12 Navy.jpg,Dark Forest Green,Green,Green,Dinosaur Green,Green,SageGreen
+Design #11-Rectangular-Purple.jpg,Purple Mimosa,Purple,Navy,Purple Plum,Purple,Navy
+Design #2-Rectangular-Pink.jpg,Neon Pink,Pink,Rose,Mauve,Purple,Rose
+Design #11-Rounded-Light Blue.jpg,Blue Diamond,Blue,SkyBlue,Coral Blue,Blue,SkyBlue
+Design #13-Rectangular-Forest Green.jpg,Dark Forest Green,Green,Green,Sage Green,Green,Gray
+Design #2-Rounded-Grey.jpg,Battleship Gray,Gray,Gray,Gainsboro (W3C),Gray,Gray
+Design #6-Rectangular-Grey.jpg,Gray Brown,Brown,Black,Silver (W3C),Gray,Gray
+Design #2-Rounded-Navy.jpg,Cobalt Blue,Blue,Navy,LightSteelBlue (W3C),Blue,SkyBlue
+Design #11-Rectangular-Orange.jpg,Scarlet,Red,Red,Macaroni and Cheese,Yellow,Beige
+Design #10-Rectangular-Beige.jpg,Petra Gold,Brown,LightBrown,Cardboard Brown,Gold,Beige
+Design #14-Rectangular-Grey.jpg,DarkGray or DarkGrey (W3C),Gray,Gray,Gainsboro (W3C),Gray,Gray
+Design #8-Rounded-Burgundy.jpg,Donut Pink,Pink,Rose,Raspberry Purple,Purple,Rose
+Design #1-Circular-Bright Red.jpg,Light Rose,Pink,Rose,Red (W3C),Red,Red
+Design 12 Black.jpg,DarkGray or DarkGrey (W3C),Gray,Gray,Gray Wolf,Gray,Gray
+Design #10-Rectangular-Green.jpg,Magic Mint,Green,SkyBlue,SpringGreen (W3C),Green,SageGreen
+Design #2-Rectangular-Dark Brown.jpg,Saffron Red,Red,LightBrown,Chrome Gold,Yellow,Yellow
+Design #11-Rounded-Purple.jpg,Aztech Purple,Purple,Navy,Purple Mimosa,Purple,Navy
+Design #7-Rounded-Burgundy.jpg,Purple Maroon,Purple,Red,Dark Scarlet,Red,Black
+Design #14-Rounded-Pink.jpg,Neon Pink,Pink,Rose,Mauve,Purple,Rose
+Design #8-Rounded-Dark Brown.jpg,Cinnamon,Brown,LightBrown,Chrome Gold,Yellow,Yellow
+Design #6-Rectangular-Forest Green.jpg,Deep Teal,Green,Black,Sage Green,Green,Gray
+Design #5-Rounded-Grey.jpg,DarkGray or DarkGrey (W3C),Gray,Gray,Gainsboro (W3C),Gray,Gray
+Design #12-Rectangular-Bright Red.jpg,Hot Deep Pink,Pink,Rose,Pink (W3C),Pink,Rose
+Design #15-Rounded-Pink.jpg,HotPink (W3C),Pink,Rose,Deep Mauve,Purple,Rose
+Design #4-Rectangular-Sage.jpg,Dark Forest Green,Green,Green,Green Thumb,Green,SageGreen
+Design #13-Rectangular-Black.jpg,DarkGray or DarkGrey (W3C),Gray,Gray,Gray Wolf,Gray,Gray
+Design #5-Rectangular-Light Brown.jpg,Coffee,Brown,Black,Light Gold,Gold,Beige
+Design #10-Circular-Sage.jpg,Dollar Bill Green,Green,SageGreen,Green Thumb,Green,SageGreen
+Design #6-Rectangular-Blue.jpg,Blue Koi,Blue,BabyBlue,Deep Teal,Green,Black
+Design #11-Rounded-Blue.jpg,Jeans Blue,Blue,SkyBlue,Neon Blue,Blue,BabyBlue
+Design #10-Rectangular-Purple.jpg,Dark White,Beige,White,Blue Lotus,Blue,Navy
+Design #3-Rounded-Bright Red.jpg,Pink (W3C),Pink,Rose,Red (W3C),Red,Red
+Design #9-Rectangular-Light Blue.jpg,Blue Diamond,Blue,SkyBlue,Day Sky Blue,Blue,BabyBlue
+Design #10-Rectangular-Beige(1).jpg,Sedona,Brown,LightBrown,Chrome Gold,Yellow,Yellow
+Design #10-Circular-Brown.jpg,Chestnut Red,Red,LightBrown,Sun Yellow,Yellow,Yellow
+Design #9-Rounded-Bright Red.jpg,Pink (W3C),Pink,Rose,Red (W3C),Red,Red
+Design #1-Circular-Light Blue.jpg,Blue Diamond,Blue,SkyBlue,Water,Blue,SkyBlue
+Design #8-Rounded-Light Blue.jpg,Blue Diamond,Blue,SkyBlue,LightSkyBlue (W3C),Blue,BabyBlue
+Design #4-Rectangular-Green.jpg,Parrot Green,Green,Green,SpringGreen (W3C),Green,SageGreen
+Design #9-Rectangular-Yellow.jpg,Gold (W3C),Yellow,Yellow,Gold (W3C),Yellow,Yellow
+Design #5-Rectangular-Black.jpg,Night,Black,Navy,DarkGray or DarkGrey (W3C),Gray,Gray
+Design #5-Rectangular-Pink.jpg,Mauve,Purple,Rose,Periwinkle,Purple,Gray
+Design #11-Rectangular-Navy.jpg,Cobalt Blue,Blue,Navy,Light Purple Blue,Blue,SkyBlue
+Design #15-Rectangular-Beige.jpg,Brown Sand,Brown,LightBrown,Tiger Orange,Brown,LightBrown
+Design #2-Rectangular-Grey.jpg,Battleship Gray,Gray,Gray,Gainsboro (W3C),Gray,Gray
+Design #6-Circular-Orange.jpg,OrangeRed (W3C),Orange,LightBrown,Neon Red,Red,Red
+Design #8-Rectangular-Pink.jpg,Heliotrope Purple,Purple,Navy,Periwinkle,Purple,Gray
+Design #9-Rectangular-Blue.jpg,Neon Blue,Blue,BabyBlue,Neon Blue,Blue,BabyBlue
+Design #1-Rectangular-Light Brown.jpg,Army Brown,Brown,Gray,Tan Brown,Gold,Yellow
+Design #13-Rounded-Pink.jpg,HotPink (W3C),Pink,Rose,Neon Pink,Pink,Rose
+Design #15-Rounded-Blue.jpg,LightSteelBlue (W3C),Blue,SkyBlue,Neon Blue,Blue,BabyBlue
+Design #8-Rectangular-Orange.jpg,Platinum,Gray,Gray,Scarlet,Red,Red
+Design #7-Rectangular-Navy.jpg,Earth Blue,Blue,Navy,LightSteelBlue (W3C),Blue,SkyBlue
+Design #3-Rectangular-Grey.jpg,LightSteelBlue (W3C),Blue,SkyBlue,Battleship Gray,Gray,Gray
+Design #2-Rectangular-Navy.jpg,Cobalt Blue,Blue,Navy,Jeans Blue,Blue,SkyBlue
+Design 12 Light Brown.jpg,Petra Gold,Brown,LightBrown,Khaki (W3C),Gold,Beige
+Design #3-Rectangular-Light Brown.jpg,Mahogany,Brown,LightBrown,Cardboard Brown,Gold,Beige
+Design #6-Circular-Burgundy.jpg,Neon Hot Pink,Pink,Rose,Dark Scarlet,Red,Black
+Design #3-Rounded-Beige.jpg,Petra Gold,Brown,LightBrown,Cardboard Brown,Gold,Beige
+Design #4-Rectangular-Beige.jpg,Brown Sand,Brown,LightBrown,Sun Yellow,Yellow,Yellow
+Design #15-Rounded-Forest Green.jpg,SlateGray or SlateGrey (W3C),Gray,Gray,Deep Emerald Green,Green,Green
+Design #5-Rounded-Beige.jpg,Brown Sand,Brown,LightBrown,Sun Yellow,Yellow,Yellow
+Design #1-Rectangular-Beige.jpg,Sand,Brown,Beige,Light Gold,Gold,Beige
+Design #14-Rectangular-Burgundy.jpg,Pink (W3C),Pink,Rose,Ferrari Red,Red,Red
+Design #11-Rounded-Orange.jpg,OrangeRed (W3C),Orange,LightBrown,Scarlet,Red,Red
+Design #6-Rectangular-Pink.jpg,Neon Pink,Pink,Rose,Mauve,Purple,Rose
+Design #14-Rounded-Purple.jpg,Champagne,Beige,White,Purple Plum,Purple,Navy
+Design #7-Rectangular-Purple.jpg,Canary Blue,Blue,Navy,Platinum,Gray,Gray
+Design #5-Rectangular-Yellow.jpg,Pearl White,Beige,White,DarkGoldenRod (W3C),Brown,LightBrown
+Design #5-Rectangular-Sage.jpg,Dinosaur Green,Green,SageGreen,Light Jade,Green,SageGreen
+Design #5-Rectangular-Bright Red.jpg,Periwinkle Pink,Pink,Rose,Red (W3C),Red,Red
+Design #9-Rounded-Dark Brown.jpg,Saffron Red,Red,LightBrown,Chrome Gold,Yellow,Yellow
+Design #3-Rectangular-Orange.jpg,Champagne,Beige,White,Scarlet,Red,Red
+Design #9-Rounded-Light Brown.jpg,Mahogany,Brown,LightBrown,Sun Yellow,Yellow,Yellow
+Design #8-Rounded-Light Brown.jpg,Petra Gold,Brown,LightBrown,Tiger Orange,Brown,LightBrown
+Design #11-Rounded-Burgundy.jpg,Blush Red,Pink,Rose,Ferrari Red,Red,Red
+Design #6-Circular-Dark Brown.jpg,Bronze,Brown,LightBrown,Grapefruit,Red,LightBrown
+Design #12-Rectangular-Blue.jpg,Blue Koi,Blue,BabyBlue,Jeans Blue,Blue,SkyBlue
+Design #13-Rounded-Orange.jpg,Carrot Orange,Orange,LightBrown,Neon Red,Red,Red
+Design #14-Rectangular-Green.jpg,Magic Mint,Green,SkyBlue,Parrot Green,Green,Green
+Design #8-Rounded-Yellow.jpg,Gold (W3C),Yellow,Yellow,DarkOrange (W3C),Orange,LightBrown
+Design #5-Rectangular-Grey.jpg,Platinum,Gray,Gray,SlateGray or SlateGrey (W3C),Gray,Gray
+Design #4-Rectangular-Black.jpg,Black Cow,Black,Black,Night,Black,Navy
+Design #5-Rounded-Green.jpg,MediumSpringGreen (W3C),Green,Green,Parrot Green,Green,Green
+Design #13-Rectangular-Light Blue.jpg,LightSkyBlue (W3C),Blue,BabyBlue,Water,Blue,SkyBlue
+Design #7-Rectangular-Grey.jpg,Platinum,Gray,Gray,SlateGray or SlateGrey (W3C),Gray,Gray
+Design #15-Rounded-Light Blue.jpg,Day Sky Blue,Blue,BabyBlue,Water,Blue,SkyBlue
+Design #6-Circular-Light Blue.jpg,LightSkyBlue (W3C),Blue,BabyBlue,Medium Teal,Green,Green
+Design #2-Rounded-Purple.jpg,Dark White,Beige,White,Aztech Purple,Purple,Navy
+Design #9-Rectangular-Burgundy.jpg,Ferrari Red,Red,Red,Ferrari Red,Red,Red
+Design #14-Rounded-Yellow.jpg,Linen (W3C),Beige,White,DarkOrange (W3C),Orange,LightBrown
+Design #4-Rounded-Green.jpg,Magic Mint,Green,SkyBlue,Parrot Green,Green,Green
+Design #8-Rectangular-Yellow.jpg,Pearl White,Beige,White,Deep Yellow,Yellow,Yellow
+Design #1-Circular-Pink.jpg,Neon Pink,Pink,Rose,Periwinkle,Purple,Gray
+Design #13-Rounded-Yellow.jpg,Linen (W3C),Beige,White,DarkOrange (W3C),Orange,LightBrown
+Design #1-Rectangular-Yellow.jpg,Pearl White,Beige,White,Deep Yellow,Yellow,Yellow
+Design #7-Rounded-Forest Green.jpg,Midnight,Gary,Black,Dinosaur Green,Green,SageGreen
+Design #15-Rectangular-LightBrown.jpg,Mahogany,Brown,LightBrown,Sunrise Orange,Orange,Beige
+Design #4-Rectangular-Navy.jpg,Blue Koi,Blue,BabyBlue,Cobalt Blue,Blue,Navy
+Design #11-Rectangular-Forest Green.jpg,Deep Teal,Green,Black,Pine Green,Green,Green
+Design #9-Rectangular-Pink.jpg,Neon Pink,Pink,Rose,Neon Pink,Pink,Rose
+Design #7-Rounded-Bright Red.jpg,HotPink (W3C),Pink,Rose,Ferrari Red,Red,Red
+Design #7-Rectangular-Burgundy.jpg,Blush Pink,Pink,Rose,Dark Scarlet,Red,Black
+Design #7-Rectangular-Light Blue.jpg,Blue Koi,Blue,BabyBlue,Water,Blue,SkyBlue
+Design #3-Rounded-Pink.jpg,Neon Pink,Pink,Rose,Mauve,Purple,Rose
+Design #15-Rectangular-Green.jpg,Magic Mint,Green,SkyBlue,SpringGreen (W3C),Green,SageGreen
+Design #1-Circular-Purple.jpg,Champagne,Beige,White,Aztech Purple,Purple,Navy
+Design #5-Rounded-Bright Red.jpg,Dark Pink,Pink,Rose,Ferrari Red,Red,Red
+Design #1-Rectangular-Navy.jpg,LightSteelBlue (W3C),Blue,SkyBlue,Light Rose Green,Green,SageGreen
+Design #4-Rounded-Bright Red.jpg,LightPink (W3C),Pink,Rose,Red (W3C),Red,Red
+Design #10-Circular-Blue.jpg,Jeans Blue,Blue,SkyBlue,Neon Blue,Blue,BabyBlue
+Design #11-Rounded-Dark Brown.jpg,Brown Sand,Brown,LightBrown,Saffron Red,Red,LightBrown
+Design #9-Rounded-Forest Green.jpg,Deep Teal,Green,Black,Sage Green,Green,Gray
+Design #4-Rounded-Orange.jpg,Ash White,Beige,White,Scarlet,Red,Red
+Design #1-Rectangular-Dark Brown.jpg,Deer Brown,Brown,Beige,Fall Leaf Brown,Green,LightBrown
+Design #5-Rectangular-Beige.jpg,Light Gold,Gold,Beige,Rosy-Finch,Purple,Rose
+Design #9-Rectangular-Orange.jpg,Neon Red,Red,Red,Scarlet,Red,Red
+Design #9-Rounded-Beige.jpg,Petra Gold,Brown,LightBrown,Petra Gold,Brown,LightBrown
+Design #10-Rectangular-Navy.jpg,Jeans Blue,Blue,SkyBlue,Sapphire Blue,Blue,Navy
+Design #10-Rectangular-Light Blue.jpg,Day Sky Blue,Blue,BabyBlue,Water,Blue,SkyBlue
+Design #13-Rectangular-Navy.jpg,Blue Koi,Blue,BabyBlue,Cyan Opaque,Blue,SkyBlue
+Design #7-Rectangular-Light Brown.jpg,Sepia,Brown,LightBrown,Tan Brown,Gold,Yellow
+Design #4-Rectangular-Yellow.jpg,Gold (W3C),Yellow,Yellow,DarkOrange (W3C),Orange,LightBrown
+Design #3-Rounded-Sage.jpg,Dinosaur Green,Green,SageGreen,Green Thumb,Green,SageGreen
+Design #15-Rounded-LightBrown.jpg,Mahogany,Brown,LightBrown,Sunrise Orange,Orange,Beige
+Design #15-Rounded-Yellow.jpg,Gold (W3C),Yellow,Yellow,Golden Yellow,Yellow,Yellow
+Design #12-Rectangular-Orange.jpg,Dark White,Beige,White,OrangeRed (W3C),Orange,LightBrown
+Design #1-Rectangular-Forest Green.jpg,Dark Forest Green,Green,Green,Dinosaur Green,Green,SageGreen
+Design #1-Rectangular-Purple.jpg,Blue Lotus,Blue,Navy,Pale Lilac,Purple,Gray
+Design #11-Rounded-Navy.jpg,Cobalt Blue,Blue,Navy,Light Purple Blue,Blue,SkyBlue
+Design #14-Rectangular-Purple.jpg,Champagne,Beige,White,Purple Plum,Purple,Navy
+Design #13-Rounded-Blue.jpg,Crystal Blue,Blue,BabyBlue,LightSteelBlue (W3C),Blue,SkyBlue
+Design #13-Rectangular-Bright Red.jpg,Dark Pink,Pink,Rose,Light Rose,Pink,Rose
+Design #10-Rectangular-Orange.jpg,Dark White,Beige,White,OrangeRed (W3C),Orange,LightBrown
+Design #11-Rounded-Forest Green.jpg,Deep Teal,Green,Black,Pine Green,Green,Green
+Design #12-Rectangular-Black.jpg,Iridium,Black,Black,DarkGray or DarkGrey (W3C),Gray,Gray
+Design #2-Rounded-Forest Green.jpg,Deep Teal,Green,Black,Gunmetal Gray,Gray,Black
+Design #13-Rectangular-Green.jpg,Dark Forest Green,Green,Green,Green Thumb,Green,SageGreen
+Design #11-Rectangular-Black.jpg,Night,Black,Navy,Gray or Grey (W3C),Gray,Gray
+Design #3-Rounded-Purple.jpg,Ash White,Beige,White,Purple Plum,Purple,Navy
+Design #4-Rectangular-Forest Green.jpg,Deep Teal,Green,Black,Deep Teal,Green,Black
+Design #6-Circular-Purple.jpg,White Chocolate,Beige,White,Aztech Purple,Purple,Navy
+Design #4-Rectangular-Burgundy.jpg,Violet Red,Pink,Rose,Red (W3C),Red,Red
+Design #6-Rectangular-Burgundy.jpg,Chestnut,Brown,LightBrown,Dark Scarlet,Red,Black
+Design #5-Rounded-Purple.jpg,Light Slate Blue,Blue,Navy,Light Rose,Pink,Rose
+Design 12 Burgundy.jpg,Raspberry Purple,Purple,Rose,Love Red,Red,Red
+Design #14-Rounded-Green.jpg,Magic Mint,Green,SkyBlue,Parrot Green,Green,Green
+Design #15-Rectangular-BrightRed.jpg,LightPink (W3C),Pink,Rose,Neon Hot Pink,Pink,Rose
+Design #11-Rectangular-Pink.jpg,Neon Pink,Pink,Rose,Pastel Purple,Pink,Rose
+Design 12 Beige.jpg,Dark Almond,Brown,Beige,Sun Yellow,Yellow,Yellow
+Design #15-Rectangular-Orange.jpg,DarkOrange (W3C),Orange,LightBrown,Neon Orange,Orange,LightBrown
+Design #4-Rectangular-Dark Brown.jpg,Saffron Red,Red,LightBrown,Macaroni and Cheese,Yellow,Beige
+Design #2-Rectangular-Yellow.jpg,Pearl White,Beige,White,Gold (W3C),Yellow,Yellow
+Design 12 Light Blue.jpg,Blue Diamond,Blue,SkyBlue,LightSkyBlue (W3C),Blue,BabyBlue
+Design #5-Rectangular-Orange.jpg,Platinum,Gray,Gray,Scarlet,Red,Red
+Design #2-Rectangular-Bright Red.jpg,LightPink (W3C),Pink,Rose,Red (W3C),Red,Red
+Design #6-Rectangular-Purple.jpg,BlueViolet (W3C),Purple,Navy,Purple Plum,Purple,Navy
+Design #3-Rounded-Black.jpg,Night,Black,Navy,DarkGray or DarkGrey (W3C),Gray,Gray
+Design #4-Rectangular-Light Blue.jpg,Blue Diamond,Blue,SkyBlue,LightSkyBlue (W3C),Blue,BabyBlue
+Design #7-Rectangular-Pink.jpg,Heliotrope Purple,Purple,Navy,Periwinkle,Purple,Gray
+Design #8-Rounded-Black.jpg,Night,Black,Navy,Gray or Grey (W3C),Gray,Gray
+Design #1-Rectangular-Light Blue.jpg,Blue Lagoon,Blue,BabyBlue,Water,Blue,SkyBlue
+Design #3-Rectangular-Black.jpg,Night,Black,Navy,DarkGray or DarkGrey (W3C),Gray,Gray
+Design #13-Rounded-Navy.jpg,LightBlue (W3C),Blue,SkyBlue,Sapphire Blue,Blue,Navy
+Design #10-Circular-Navy.jpg,Cobalt Blue,Blue,Navy,Jeans Blue,Blue,SkyBlue
+Design #13-Rounded-Purple.jpg,Light Slate Blue,Blue,Navy,BlueViolet (W3C),Purple,Navy
+Design #9-Rounded-Navy.jpg,Cobalt Blue,Blue,Navy,Sapphire Blue,Blue,Navy
+Design #7-Rectangular-Green.jpg,Light Rose Green,Green,SageGreen,Parrot Green,Green,Green
+Design #4-Rounded-Light Brown.jpg,Petra Gold,Brown,LightBrown,Sun Yellow,Yellow,Yellow
+Design #2-Rectangular-Beige.jpg,Copper,Brown,Beige,Sun Yellow,Yellow,Yellow
+Design #2-Rectangular-Light Brown.jpg,Mahogany,Brown,LightBrown,Sun Yellow,Yellow,Yellow
+Design #11-Rounded-Green.jpg,Blue Green,Green,SkyBlue,Parrot Green,Green,Green
+Design #9-Rectangular-Dark Brown.jpg,Dark Sienna,Brown,LightBrown,Saffron Red,Red,LightBrown
+Design 12 Orange.jpg,HotPink (W3C),Pink,Rose,Mauve,Purple,Rose
+Design #9-Rectangular-Grey.jpg,Battleship Gray,Gray,Gray,Battleship Gray,Gray,Gray
+Design #9-Rectangular-Purple.jpg,Purple Plum,Purple,Navy,Purple Thistle,Purple,Beige
+Design #15-Rectangular-DarkBrown.jpg,Chocolate (W3C),Brown,LightBrown,Chrome Gold,Yellow,Yellow
+Design #11-Rectangular-Blue.jpg,Neon Blue,Blue,BabyBlue,Thistle (W3C),Purple,Rose
+Design #7-Rectangular-Black.jpg,Night,Black,Navy,DarkGray or DarkGrey (W3C),Gray,Gray
+Design 12 Bright Red.jpg,Dark Pink,Pink,Rose,Ferrari Red,Red,Red
+Design #6-Rectangular-Beige.jpg,Charcoal,Black,Black,Copper,Brown,Beige
+Design #15-Rounded-Black.jpg,Gray or Grey (W3C),Gray,Gray,Vampire Gray,Gray,Gray
+Design #13-Rectangular-Pink.jpg,HotPink (W3C),Pink,Rose,Periwinkle,Purple,Gray
+Design #5-Rectangular-Forest Green.jpg,Midnight,Gary,Black,Dinosaur Green,Green,SageGreen
+Design #3-Rounded-Blue.jpg,LightSteelBlue (W3C),Blue,SkyBlue,Neon Blue,Blue,BabyBlue
+Design #6-Rectangular-Light Brown.jpg,Charcoal,Black,Black,Dark Gold,Brown,LightBrown
+Design #14-Rounded-Forest Green.jpg,Deep Teal,Green,Black,Sage Green,Green,Gray
+Design #3-Rectangular-Navy.jpg,Cobalt Blue,Blue,Navy,Jeans Blue,Blue,SkyBlue
+Design #15-Rectangular-Blue.jpg,LightSteelBlue (W3C),Blue,SkyBlue,Neon Blue,Blue,BabyBlue
+Design #1-Circular-Grey.jpg,Battleship Gray,Gray,Gray,Platinum,Gray,Gray
+Design #15-Rectangular-Yellow.jpg,Gold (W3C),Yellow,Yellow,Golden Yellow,Yellow,Yellow
+Design #14-Rounded-Orange.jpg,Lavender Pinocchio,Beige,Beige,Scarlet,Red,Red
+Design #4-Rectangular-Bright Red.jpg,Violet Red,Pink,Rose,Red (W3C),Red,Red
+Design #11-Rectangular-Yellow.jpg,Gold (W3C),Yellow,Yellow,Orange Gold,Gold,LightBrown
+Design #6-Circular-Grey.jpg,DarkGray or DarkGrey (W3C),Gray,Gray,Vampire Gray,Gray,Gray
+Design #2-Rounded-Pink.jpg,Neon Pink,Pink,Rose,Mauve,Purple,Rose
+Design #6-Rectangular-Orange.jpg,Dark White,Beige,White,Neon Orange,Orange,LightBrown
+Design #4-Rounded-Purple.jpg,White Chocolate,Beige,White,Aztech Purple,Purple,Navy
+Design #5-Rectangular-Purple.jpg,Canary Blue,Blue,Navy,Platinum,Gray,Gray
+Design #13-Rounded-Light Brown.jpg,Mahogany,Brown,LightBrown,Petra Gold,Brown,LightBrown
+Design#1-Circular-Sage.jpg,Green Thumb,Green,SageGreen,Sage Green,Green,Gray
+Design #14-Rectangular-Sage.jpg,Dinosaur Green,Green,SageGreen,Green Thumb,Green,SageGreen
+Design #14-Rounded-Black.jpg,Night,Black,Navy,DarkGray or DarkGrey (W3C),Gray,Gray
+Design #6-Rectangular-Yellow.jpg,Caramel,Brown,LightBrown,Orange (W3C),Orange,LightBrown
+Design #14-Rectangular-Forest green.jpg,Deep Teal,Green,Black,Sage Green,Green,Gray
+Design #6-Circular-Beige.jpg,Brown Bear,Brown,Gray,Copper,Brown,Beige
+Design #2-Rectangular-Black.jpg,Night,Black,Navy,Gray Cloud,Gray,Gray

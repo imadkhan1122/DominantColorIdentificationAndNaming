@@ -28,7 +28,7 @@ if not os.path.exists('colors.txt'):
         file.write(str(colorStr))
 
 with open("colors.txt", "r") as file:
-    colors = eval(file.readline())
+    colors = eval(file.readline(5_000_000))
 #-------------------------CLASS DOMINANT_COLORS--------------------------------#
 class DOMINAN_COLORS:
     # inti function
